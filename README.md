@@ -5,4 +5,4 @@
 #### twitter : [@anaysarkar7](https://twitter.com/anaysarkar7) <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg" width="15">
 #### instagram : [@anaysarkar7](https://www.instagram.com/anaysarkar7/) <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" width="15">
 
-![visitors](https://visitor-badge.laobi.icu/badge?anaysarkar7=anaysarkar7)
+![visitors](https://visitor-badge.laobi.icu/badge?anaysarkar7.anaysarkar7)
