@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anay</h1>
-<h3 align="center">Keep up the good work !</h3>
+<h3 align="center"> Keep Coding!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anaysarkar7&label=Profile%20views&color=0e75b6&style=flat" alt="anaysarkar7" /> </p>
 
