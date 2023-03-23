@@ -15,12 +15,11 @@
 
 ###
 
-<br clear="both">
+<!-- <br clear="both">
 <div align="left">
   <a href="https://stackoverflow.com/users/15728157/anaysarkar" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="30" height="20" alt="stackoverflow logo"  />
   </a>
-  </a>
-</div>
+</div> -->
 
 ###
